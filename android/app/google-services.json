@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6356253320",
+    "project_id": "deal-49a37",
+    "storage_bucket": "deal-49a37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6356253320:android:129376973cd96270f9bd3d",
+        "android_client_info": {
+          "package_name": "com.example.deal_zone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMPvmWqDhjCrTDDA9zFYYI7KON3wnND5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
